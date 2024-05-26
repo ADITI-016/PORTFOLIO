@@ -1,7 +1,5 @@
 # PORTFOLIO
 
-**Portfolio Outlook ---> https://aditi-016.github.io/PORTFOLIO/**
-
 I created a personal portfolio website using basic HTML. This project was a fundamental step to solidify my understanding of HTML and web development principles. This will remind you of the world's first websites and the old school ways of developing websites only using HTML. Inspiration is from GOOGLE's first website look. Although it does serves as a digital resume, showcasing my academic background, skills, and interests.
 
 **Project Features:**
